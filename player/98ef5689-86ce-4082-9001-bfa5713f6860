@@ -6,7 +6,7 @@
          "name":"betacape",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"https://github.com/Dismission/nightclient/tree/master/cosmetics/capes/betacape.png"
 },
       "purple":{ 
