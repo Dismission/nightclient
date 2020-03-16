@@ -7,7 +7,7 @@
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/capes/betacape.png"
+         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/betacape.png"
 },
       "purple":{ 
          "name":"purple",
