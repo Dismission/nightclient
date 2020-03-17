@@ -16,12 +16,12 @@
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/purple.png"
       },
-      "firework":{ 
-         "name":"firework",
+      "vape":{ 
+         "name":"vape",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/firework.png"
+         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/vapeblitzkrieg.png"
       }
    }
 }
