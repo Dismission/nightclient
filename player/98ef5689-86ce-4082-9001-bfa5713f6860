@@ -16,12 +16,12 @@
          "active":false,
          "resourceLocation":"https://raw.githubusercontent.com/Serversided/Public-Cosmetics/master/cosmetics/wings/purple.png"
       },
-      "vape":{ 
-         "name":"vape",
+      "valentine_cape_4":{ 
+         "name":"valentine_cape_4",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/vapeblitzkrieg.png"
+         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/valentine_cape_4.png"
       }
    }
 }
