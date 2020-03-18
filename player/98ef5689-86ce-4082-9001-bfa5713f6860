@@ -2,12 +2,12 @@
    "uuid":"98ef5689-86ce-4082-9001-bfa5713f6860",
    "username":iVisualize,
    "cosmetics":{ 
-      "cb_staff":{ 
-         "name":"cb_staff",
+      "nightcape":{ 
+         "name":"nightcape",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/cb_staff.png"
+         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/nightcape.png"
 },
       "purple":{ 
          "name":"purple",
