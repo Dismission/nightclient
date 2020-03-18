@@ -2,12 +2,12 @@
    "uuid":"98ef5689-86ce-4082-9001-bfa5713f6860",
    "username":iVisualize,
    "cosmetics":{ 
-      "nightcape":{ 
-         "name":"nightcape",
+      "wrathcape":{ 
+         "name":"wrathcape",
          "type":"cape",
          "scale":0.16,
-         "active":false,
-         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/nightcape.png"
+         "active":true,
+         "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/wrathcape.png"
 },
       "purple":{ 
          "name":"purple",
@@ -20,14 +20,14 @@
          "name":"valentine_cape_4",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/valentine_cape_4.png"
       },
       "whiteheart":{ 
          "name":"whiteheart",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"https://github.com/Dismission/nightclient/blob/master/cosmetics/capes/whiteheart.png"
       }
    }
